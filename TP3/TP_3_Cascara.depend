@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1530671037 source:c:\espaciodetrabajo\tp_3_cascara\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1529885300 c:\espaciodetrabajo\tp_3_cascara\utn.h
+
+1530659738 source:c:\espaciodetrabajo\tp_3_cascara\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1529614030 c:\espaciodetrabajo\tp_3_cascara\arraylist.h
+
+1530674370 source:c:\espaciodetrabajo\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"utn.h"
+	"ArrayList.h"
+
+1530673490 c:\espaciodetrabajo\tp_3_cascara\funciones.h
+
+1530674266 source:c:\espaciodetrabajo\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"utn.h"
+	"ArrayList.h"
+

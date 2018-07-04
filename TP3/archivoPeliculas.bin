@@ -1,0 +1,1151 @@
+<!DOCTYPE html>
+<!-- Template by Quackit.com -->
+<html lang='en'>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Lista peliculas</title>
+    <!-- Bootstrap Core CSS -->
+    <link href='css/bootstrap.min.css' rel='stylesheet'>
+    <!-- Custom CSS: You can use this stylesheet to override any Bootstrap styles and/or apply your own styles -->
+    <link href='css/custom.css' rel='stylesheet'>
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src='https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js'>
+        </script><script src='https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js'></script>
+    <![endif]-->
+</head>
+<body>
+    <div class='container'>
+        <div class='row'>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src= r alt=''>
+                </a>
+                <h3>
+                    <a href='#'>pedo</a>
+                </h3>
+                <ul>
+                    <li>Genero:drama</li>
+                    <li>Puntaje:2</li>
+                    <li>Duracion:123</li>
+                </ul>
+                <p>r.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src= www.peliculas/rocky alt=''>
+                </a>
+                <h3>
+                    <a href='#'>rocky</a>
+                </h3>
+                <ul>
+                    <li>Genero:accion</li>
+                    <li>Puntaje:10</li>
+                    <li>Duracion:120</li>
+                </ul>
+                <p>pelicula.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src= www.peliculas/rockimage alt=''>
+                </a>
+                <h3>
+                    <a href='#'>Rocky</a>
+                </h3>
+                <ul>
+                    <li>Genero:accion</li>
+                    <li>Puntaje:10</li>
+                    <li>Duracion:120</li>
+                </ul>
+                <p>pelicula.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src= www.rocky alt=''>
+                </a>
+                <h3>
+                    <a href='#'>Rocky</a>
+                </h3>
+                <ul>
+                    <li>Genero:accion</li>
+                    <li>Puntaje:10</li>
+                    <li>Duracion:120</li>
+                </ul>
+                <p>pelicula.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src= r alt=''>
+                </a>
+                <h3>
+                    <a href='#'>a</a>
+                </h3>
+                <ul>
+                    <li>Genero:b</li>
+                    <li>Puntaje:10</li>
+                    <li>Duracion:120</li>
+                </ul>
+                <p>v.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src= e alt=''>
+                </a>
+                <h3>
+                    <a href='#'>rocky</a>
+                </h3>
+                <ul>
+                    <li>Genero:a</li>
+                    <li>Puntaje:1</li>
+                    <li>Duracion:120</li>
+                </ul>
+                <p>e.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src= re alt=''>
+                </a>
+                <h3>
+                    <a href='#'>a</a>
+                </h3>
+                <ul>
+                    <li>Genero:e</li>
+                    <li>Puntaje:2</li>
+                    <li>Duracion:2</li>
+                </ul>
+                <p>r.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src= r alt=''>
+                </a>
+                <h3>
+                    <a href='#'>a</a>
+                </h3>
+                <ul>
+                    <li>Genero:s</li>
+                    <li>Puntaje:2</li>
+                    <li>Duracion:3</li>
+                </ul>
+                <p>e.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src= ert alt=''>
+                </a>
+                <h3>
+                    <a href='#'>asd</a>
+                </h3>
+                <ul>
+                    <li>Genero:qwe</li>
+                    <li>Puntaje:3</li>
+                    <li>Duracion:12</li>
+                </ul>
+                <p>zxc.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src= asd alt=''>
+                </a>
+                <h3>
+                    <a href='#'>rocky</a>
+                </h3>
+                <ul>
+                    <li>Genero:asd</li>
+                    <li>Puntaje:3</li>
+                    <li>Duracion:2</li>
+                </ul>
+                <p>zxc.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src= qwert alt=''>
+                </a>
+                <h3>
+                    <a href='#'>rocky</a>
+                </h3>
+                <ul>
+                    <li>Genero:accion</li>
+                    <li>Puntaje:5</li>
+                    <li>Duracion:120</li>
+                </ul>
+                <p>pelicula.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src= www.rocky alt=''>
+                </a>
+                <h3>
+                    <a href='#'>rocky</a>
+                </h3>
+                <ul>
+                    <li>Genero:accion</li>
+                    <li>Puntaje:10</li>
+                    <li>Duracion:120</li>
+                </ul>
+                <p>pelicula.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src= www.peliculas/rocky alt=''>
+                </a>
+                <h3>
+                    <a href='#'>rocky</a>
+                </h3>
+                <ul>
+                    <li>Genero:accion</li>
+                    <li>Puntaje:5</li>
+                    <li>Duracion:120</li>
+                </ul>
+                <p>pelicula.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src= www.fre alt=''>
+                </a>
+                <h3>
+                    <a href='#'>rocky</a>
+                </h3>
+                <ul>
+                    <li>Genero:accion</li>
+                    <li>Puntaje:3</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>pelicula.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src= www.rocky alt=''>
+                </a>
+                <h3>
+                    <a href='#'>rocky</a>
+                </h3>
+                <ul>
+                    <li>Genero:accion</li>
+                    <li>Puntaje:4</li>
+                    <li>Duracion:4</li>
+                </ul>
+                <p>pelicula.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src= www.rocky alt=''>
+                </a>
+                <h3>
+                    <a href='#'>rocky</a>
+                </h3>
+                <ul>
+                    <li>Genero:accion</li>
+                    <li>Puntaje:5</li>
+                    <li>Duracion:120</li>
+                </ul>
+                <p>pelicula.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src= www.rocky alt=''>
+                </a>
+                <h3>
+                    <a href='#'>rocky</a>
+                </h3>
+                <ul>
+                    <li>Genero:accion</li>
+                    <li>Puntaje:5</li>
+                    <li>Duracion:120</li>
+                </ul>
+                <p>pelicula.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src= www.rocky alt=''>
+                </a>
+                <h3>
+                    <a href='#'>rocky</a>
+                </h3>
+                <ul>
+                    <li>Genero:accion</li>
+                    <li>Puntaje:5</li>
+                    <li>Duracion:120</li>
+                </ul>
+                <p>pelicula.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src= www.esperando alt=''>
+                </a>
+                <h3>
+                    <a href='#'>esperando</a>
+                </h3>
+                <ul>
+                    <li>Genero:drama</li>
+                    <li>Puntaje:6</li>
+                    <li>Duracion:320</li>
+                </ul>
+                <p>pelicula.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src= www.rocky alt=''>
+                </a>
+                <h3>
+                    <a href='#'>rocky</a>
+                </h3>
+                <ul>
+                    <li>Genero:accion</li>
+                    <li>Puntaje:3</li>
+                    <li>Duracion:120</li>
+                </ul>
+                <p>pelicula.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src= www.animal alt=''>
+                </a>
+                <h3>
+                    <a href='#'>animal</a>
+                </h3>
+                <ul>
+                    <li>Genero:drama</li>
+                    <li>Puntaje:6</li>
+                    <li>Duracion:5</li>
+                </ul>
+                <p>pelicula.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src= www.animal alt=''>
+                </a>
+                <h3>
+                    <a href='#'>animal</a>
+                </h3>
+                <ul>
+                    <li>Genero:drama</li>
+                    <li>Puntaje:10</li>
+                    <li>Duracion:120</li>
+                </ul>
+                <p>pelicula.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src= www.rocky alt=''>
+                </a>
+                <h3>
+                    <a href='#'>rocky</a>
+                </h3>
+                <ul>
+                    <li>Genero:accion</li>
+                    <li>Puntaje:5</li>
+                    <li>Duracion:120</li>
+                </ul>
+                <p>pelicula.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src= www.rocky alt=''>
+                </a>
+                <h3>
+                    <a href='#'>rocky</a>
+                </h3>
+                <ul>
+                    <li>Genero:accion</li>
+                    <li>Puntaje:10</li>
+                    <li>Duracion:120</li>
+                </ul>
+                <p>pelicula.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:6421364</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:16777596</li>
+                    <li>Duracion:6416312</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'>\ça</a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:3</li>
+                    <li>Duracion:1952</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src= Hèa alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:131072</li>
+                    <li>Duracion:83886340</li>
+                </ul>
+                <p> ìa.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src= Èÿv4ía alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:ìa</li>
+                    <li>Puntaje:2011865868</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src= t alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:t</li>
+                    <li>Puntaje:7209071</li>
+                    <li>Duracion:6029413</li>
+                </ul>
+                <p>S.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'>
+</a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:661336</li>
+                    <li>Duracion:2011729098</li>
+                </ul>
+                <p>¼êa.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'>Õ‡èw</a>
+                </h3>
+                <ul>
+                    <li>Genero:hêa</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:64</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>>…èw¤ëa.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src= ø2k alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:Ðëa</li>
+                    <li>Puntaje:2621442</li>
+                    <li>Duracion:-973078073</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'>È<k</a>
+                </h3>
+                <ul>
+                    <li>Genero:€6k</li>
+                    <li>Puntaje:7026348</li>
+                    <li>Duracion:2011697700</li>
+                </ul>
+                <p>ÒJ¸@óa.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src= ðïa alt=''>
+                </a>
+                <h3>
+                    <a href='#'>X</a>
+                </h3>
+                <ul>
+                    <li>Genero:l</li>
+                    <li>Puntaje:6418360</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=  alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:0</li>
+                    <li>Duracion:0</li>
+                </ul>
+                <p>0.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src= siªuä alt=''>
+                </a>
+                <h3>
+                    <a href='#'>xîa</a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:6419164</li>
+                    <li>Duracion:256</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src= 8 alt=''>
+                </a>
+                <h3>
+                    <a href='#'></a>
+                </h3>
+                <ul>
+                    <li>Genero:</li>
+                    <li>Puntaje:3604534</li>
+                    <li>Duracion:1769498</li>
+                </ul>
+                <p>.</p>
+            </article>
+
+            <article class='col-md-4 article-intro'>
+                <a href='#'>
+                    <img class='img-responsive img-rounded' src=   ! Æ0 `9 R alt=''>
+                </a>
+                <h3>
+                    <a href='#'>T</a>
+                </h3>
+                <ul>
+                    <li>Genero:^</li>
+                    <li>Puntaje:539369502</li>
+                    <li>Duracion:4784200</li>
+                </ul>
+                <p>J.</p>
+            </article>
+
+            <article class='col-md-4 arti
