@@ -1,0 +1,232 @@
+# depslib dependency file v1.0
+1530299900 source:c:\users\liliana\desktop\programacion\c\tp3\tp_3_cascara\getsvalids.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"getsValids.h"
+
+1530299818 c:\users\liliana\desktop\programacion\c\tp3\tp_3_cascara\getsvalids.h
+
+1530300227 source:c:\users\liliana\desktop\programacion\c\tp3\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1530296367 c:\users\liliana\desktop\programacion\c\tp3\tp_3_cascara\funciones.h
+
+1530299957 source:c:\users\liliana\desktop\programacion\c\tp3\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"getsValids.h"
+
+1530287526 source:f:\downloads\downloads torrent\labo1\trabajos-practicos-prog-lab-1-master\trabajos-practicos-prog-lab-1-master\tp3\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"getsValids.h"
+
+1530287526 f:\downloads\downloads torrent\labo1\trabajos-practicos-prog-lab-1-master\trabajos-practicos-prog-lab-1-master\tp3\tp_3_cascara\funciones.h
+
+1530287526 f:\downloads\downloads torrent\labo1\trabajos-practicos-prog-lab-1-master\trabajos-practicos-prog-lab-1-master\tp3\tp_3_cascara\getsvalids.h
+
+1530287526 source:f:\downloads\downloads torrent\labo1\trabajos-practicos-prog-lab-1-master\trabajos-practicos-prog-lab-1-master\tp3\tp_3_cascara\getsvalids.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"getsValids.h"
+
+1530287526 source:f:\downloads\downloads torrent\labo1\trabajos-practicos-prog-lab-1-master\trabajos-practicos-prog-lab-1-master\tp3\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1530657030 source:f:\downloads\downloads torrent\labo1\clase_arquitectura\2_tp3_model\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"getsValids.h"
+
+1530655886 f:\downloads\downloads torrent\labo1\clase_arquitectura\2_tp3_model\tp_3_cascara\funciones.h
+	"Model.h"
+
+1530655917 f:\downloads\downloads torrent\labo1\clase_arquitectura\2_tp3_model\tp_3_cascara\model.h
+
+1530287526 f:\downloads\downloads torrent\labo1\clase_arquitectura\2_tp3_model\tp_3_cascara\getsvalids.h
+
+1530287526 source:f:\downloads\downloads torrent\labo1\clase_arquitectura\2_tp3_model\tp_3_cascara\getsvalids.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"getsValids.h"
+
+1530657096 source:f:\downloads\downloads torrent\labo1\clase_arquitectura\2_tp3_model\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"Model.h"
+
+1530655912 source:f:\downloads\downloads torrent\labo1\clase_arquitectura\2_tp3_model\tp_3_cascara\model.c
+	"Model.h"
+
+1530837374 source:d:\2_tp3_model\tp_3_cascara\getsvalids.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"getsValids.h"
+
+1530287526 d:\2_tp3_model\tp_3_cascara\getsvalids.h
+
+1530838933 source:d:\2_tp3_model\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Model.h"
+	"View.h"
+	"funciones.h"
+	"HTMLBuilder.h"
+	"MovieDAO.h"
+
+1530655886 d:\2_tp3_model\tp_3_cascara\funciones.h
+	"Model.h"
+
+1530838527 d:\2_tp3_model\tp_3_cascara\model.h
+	"Movie.h"
+
+1530838500 source:d:\2_tp3_model\tp_3_cascara\controller.c
+	"Controller.h"
+	"Movie.h"
+	"Model.h"
+	<string.h>
+	<stdio.h>
+
+1530837483 d:\2_tp3_model\tp_3_cascara\controller.h
+	"Movie.h"
+
+1530834639 d:\2_tp3_model\tp_3_cascara\movie.h
+
+1530838664 source:d:\2_tp3_model\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"getsValids.h"
+
+1530837703 source:d:\2_tp3_model\tp_3_cascara\htmlbuilder.c
+	"Movie.h"
+	<stdio.h>
+	<stdlib.h>
+
+1530838513 source:d:\2_tp3_model\tp_3_cascara\model.c
+	"Model.h"
+
+1530833298 source:d:\2_tp3_model\tp_3_cascara\movie.c
+	"Movie.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1530838067 source:d:\2_tp3_model\tp_3_cascara\moviedao.c
+	<stdio.h>
+	<stdlib.h>
+	"MovieDAO.h"
+	"Movie.h"
+
+1530838628 source:d:\2_tp3_model\tp_3_cascara\view.c
+	<stdio.h>
+	<stdlib.h>
+	"Controller.h"
+	"Movie.h"
+	"View.h"
+	"getsValids.h"
+
+1530838937 d:\2_tp3_model\tp_3_cascara\view.h
+
+1530838563 d:\2_tp3_model\tp_3_cascara\moviedao.h
+	"Movie.h"
+
+1530837777 d:\2_tp3_model\tp_3_cascara\htmlbuilder.h
+
+1530854527 source:c:\espaciodetrabajo\2_tp3_model\tp_3_cascara\controller.c
+	"Controller.h"
+	"Movie.h"
+	"Model.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1530854517 c:\espaciodetrabajo\2_tp3_model\tp_3_cascara\controller.h
+	"Movie.h"
+
+1530824700 c:\espaciodetrabajo\2_tp3_model\tp_3_cascara\movie.h
+
+1530852874 c:\espaciodetrabajo\2_tp3_model\tp_3_cascara\model.h
+	"Movie.h"
+
+1530824700 source:c:\espaciodetrabajo\2_tp3_model\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"getsValids.h"
+
+1530824700 c:\espaciodetrabajo\2_tp3_model\tp_3_cascara\funciones.h
+	"Model.h"
+
+1530824700 c:\espaciodetrabajo\2_tp3_model\tp_3_cascara\getsvalids.h
+
+1530824700 source:c:\espaciodetrabajo\2_tp3_model\tp_3_cascara\getsvalids.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"getsValids.h"
+
+1530824700 source:c:\espaciodetrabajo\2_tp3_model\tp_3_cascara\htmlbuilder.c
+	"Movie.h"
+	<stdio.h>
+	<stdlib.h>
+
+1530853478 source:c:\espaciodetrabajo\2_tp3_model\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Model.h"
+	"View.h"
+	"funciones.h"
+	"HTMLBuilder.h"
+	"MovieDAO.h"
+
+1530824700 c:\espaciodetrabajo\2_tp3_model\tp_3_cascara\view.h
+
+1530824700 c:\espaciodetrabajo\2_tp3_model\tp_3_cascara\htmlbuilder.h
+
+1530824700 c:\espaciodetrabajo\2_tp3_model\tp_3_cascara\moviedao.h
+	"Movie.h"
+
+1530852876 source:c:\espaciodetrabajo\2_tp3_model\tp_3_cascara\model.c
+	"Model.h"
+
+1530824700 source:c:\espaciodetrabajo\2_tp3_model\tp_3_cascara\movie.c
+	"Movie.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1530851703 source:c:\espaciodetrabajo\2_tp3_model\tp_3_cascara\moviedao.c
+	<stdio.h>
+	<stdlib.h>
+	"MovieDAO.h"
+	"Movie.h"
+
+1530854713 source:c:\espaciodetrabajo\2_tp3_model\tp_3_cascara\view.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Controller.h"
+	"Movie.h"
+	"View.h"
+	"getsValids.h"
+	"Model.h"
+	"funciones.h"
+
