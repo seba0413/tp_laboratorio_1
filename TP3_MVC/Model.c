@@ -72,3 +72,18 @@ int model_buscarIndicePorId(int id)
     }
     return retorno;
 }
+
+int model_init()
+{
+    int i;
+    int retorno = -1;
+
+    for(i=0;i<CANTIDAD_PELICULAS;i++)
+    {
+        arrayPeliculas[i].flagOcupado = 0;
+        arrayPeliculas[i].idPelicula = -1;
+    }
+    retorno = 0;
+
+    return retorno;
+}

@@ -230,3 +230,84 @@
 	"Model.h"
 	"funciones.h"
 
+1530854527 source:c:\espaciodetrabajo\2_tp3_model\tp3_mvc\controller.c
+	"Controller.h"
+	"Movie.h"
+	"Model.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1530854517 c:\espaciodetrabajo\2_tp3_model\tp3_mvc\controller.h
+	"Movie.h"
+
+1530824700 c:\espaciodetrabajo\2_tp3_model\tp3_mvc\movie.h
+
+1530880942 c:\espaciodetrabajo\2_tp3_model\tp3_mvc\model.h
+	"Movie.h"
+
+1530824700 source:c:\espaciodetrabajo\2_tp3_model\tp3_mvc\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"getsValids.h"
+
+1530824700 c:\espaciodetrabajo\2_tp3_model\tp3_mvc\funciones.h
+	"Model.h"
+
+1530824700 c:\espaciodetrabajo\2_tp3_model\tp3_mvc\getsvalids.h
+
+1530824700 source:c:\espaciodetrabajo\2_tp3_model\tp3_mvc\getsvalids.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"getsValids.h"
+
+1530824700 source:c:\espaciodetrabajo\2_tp3_model\tp3_mvc\htmlbuilder.c
+	"Movie.h"
+	<stdio.h>
+	<stdlib.h>
+
+1530824700 source:c:\espaciodetrabajo\2_tp3_model\tp3_mvc\movie.c
+	"Movie.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1530854713 source:c:\espaciodetrabajo\2_tp3_model\tp3_mvc\view.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Controller.h"
+	"Movie.h"
+	"View.h"
+	"getsValids.h"
+	"Model.h"
+	"funciones.h"
+
+1530824700 c:\espaciodetrabajo\2_tp3_model\tp3_mvc\view.h
+
+1530880766 source:c:\espaciodetrabajo\2_tp3_model\tp3_mvc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Model.h"
+	"View.h"
+	"funciones.h"
+	"HTMLBuilder.h"
+	"MovieDAO.h"
+
+1530824700 c:\espaciodetrabajo\2_tp3_model\tp3_mvc\htmlbuilder.h
+
+1530880496 c:\espaciodetrabajo\2_tp3_model\tp3_mvc\moviedao.h
+	"Movie.h"
+
+1530880807 source:c:\espaciodetrabajo\2_tp3_model\tp3_mvc\moviedao.c
+	<stdio.h>
+	<stdlib.h>
+	"MovieDAO.h"
+	"Movie.h"
+
+1530880858 source:c:\espaciodetrabajo\2_tp3_model\tp3_mvc\model.c
+	"Model.h"
+

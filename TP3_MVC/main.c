@@ -11,6 +11,9 @@ int main()
     char seguir='s';
     int opcion=0;
 
+    if ((movieDAO_importarPeliculas(model_getMovies(),model_getMoviesLen())) == -1)
+        model_init();
+
 
     while(seguir=='s')
     {
